@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ComputerPlayer
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ComputerPlayer\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=sticks
+comment1.target=ComputerPlayer(Sticks)
+comment2.params=
+comment2.target=int\ move()
+comment2.text=\r\n\ F\u00F6rs\u00F6k\ p\u00E5\ AI\r\n\ Om\ sticksLeft\ -\ 2\ \u00E4r\ delbart\ med\ 3\ eller\ \u00E4r\ lika\ med\ 0\ s\u00E5\ tar\ den\ 1\r\n\ Annars\ tar\ den\ slumpvist\ mellan\ 1\ och\ 2\ f\u00F6r\ att\ inte\ g\u00F6ra\ det\ allt\ f\u00F6r\ f\u00F6ruts\u00E4gbart\r\n
+numComments=3

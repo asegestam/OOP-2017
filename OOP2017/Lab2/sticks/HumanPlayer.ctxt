@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=HumanPlayer
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ComputerPlayer\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=sticks\ ui
+comment1.target=HumanPlayer(Sticks,\ UserInterface)
+comment2.params=
+comment2.target=int\ move()
+comment2.text=\r\n\ Spelarens\ input\ sparas\ i\ variablen\ i\r\n\ Om\ i\ \u00E4r\ 1\ eller\ 2\ s\u00E5\ tas\ 1\ eller\ 2\ sticks\ fr\u00E5n\ h\u00F6gen\r\n\ Annars\ skrivs\ ett\ felmedelande\ ut\r\n
+numComments=3

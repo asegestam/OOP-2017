@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Sticks
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Sticks\ here.\r\n\ \r\n\ @author\ \r\n\ @version\ \r\n
+comment1.params=n
+comment1.target=Sticks(int)
+comment2.params=
+comment2.target=Sticks()
+comment3.params=
+comment3.target=void\ newGame()
+comment3.text=\r\n\ S\u00E4tter\ sticks\ till\ 21\ dvs,\ startar\ om\ spelet\r\n
+comment4.params=
+comment4.target=int\ sticksLeft()
+comment4.text=\r\n\ Returnerar\ antalet\ sticks\ som\ \u00E4r\ kvar\r\n
+comment5.params=n
+comment5.target=int\ take(int)
+comment5.text=\r\n\ Om\ parameter\ n\ \u00E4r\ mellan\ 1\ och\ 2\ och\ det\ finns\ mer\ sticks\ \u00E4n\ n\r\n\ s\u00E5\ tas\ 1\ eller\ 2\ sticks\ ifr\u00E5n\ h\u00F6gen\r\n\ annars\ returneras\ -1\r\n
+numComments=6

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=UserInterface2
+comment0.text=\r\n\ Alternative\ I/O\ class\ for\ the\ sticks\ game,\ based\ on\ pop-up-dialogs.\r\n\ \r\n\ @author\ Uno\ Holmer\r\n\ @version\ 2009-10-30\r\n
+comment1.params=
+comment1.target=int\ nextInt()
+comment2.params=
+comment2.target=void\ howManySticksMsg()
+comment3.params=left
+comment3.target=void\ sticksLeftMsg(int)
+comment4.params=
+comment4.target=void\ illegalMoveMsg()
+comment5.params=
+comment5.target=void\ computerWinMsg()
+comment6.params=
+comment6.target=void\ playerWinMsg()
+comment7.params=msg
+comment7.target=void\ popUpMsg(java.lang.String)
+numComments=8

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GameEngine
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ GameEngine\ here.\r\n\ \r\n\ @author\ \r\n\ @version\ \r\n
+comment1.params=
+comment1.target=GameEngine()
+comment2.params=
+comment2.target=void\ runGame()
+comment2.text=\r\n\ Startar\ om\ spelet\ p\u00E5\ 21\ sticks\ d\u00E5\ du\ k\u00F6r\ runGame\r\n\ Om\ det\ finns\ mer\ \u00E4n\ 0\ sticks\ s\u00E5\ \u00E4r\ spelet\ ig\u00E5ng\r\n
+numComments=3
